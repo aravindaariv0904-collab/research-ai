@@ -4,6 +4,8 @@ ResearchAI (Code-named **NEXUS**) is a production-grade, SaaS-quality AI Researc
 
 Unlike traditional search summaries, ResearchAI employs a multi-agent system to scrape, cross-verify, and audit web data to ensure high-fidelity insights with vector-sharp citations.
 
+**Live Deployment:** [https://research-ai-khaki.vercel.app](https://research-ai-khaki.vercel.app)
+
 ---
 
 ## ⚙️ How It Works
